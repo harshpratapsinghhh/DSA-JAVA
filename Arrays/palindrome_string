@@ -1,5 +1,6 @@
 /*
-Palindrome : A string or number  
+Palindrome : A string , number or sequence that reads the same from forward and backward.
+Ex: "Madam","racecar",141 etc
   
 */
 public boolean palindrome(String word){
