@@ -21,7 +21,7 @@ public class Prob_1 {
         for (int i = 0;i<n;i++){
             if (arr[i]>average)
                 count++;
-            else(arr[i]<average)
+            else
                 value++;
         }
         System.out.print("Numbers which are greater then average are: "+count);
