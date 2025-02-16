@@ -24,7 +24,7 @@ public class Prob_1 {
             else
                 value++;
         }
-        System.out.print("Numbers which are greater then average are: "+count);
+        System.out.println("Numbers which are greater then average are: "+count);
         System.out.print("Numbers which are smaller then average are: "+value);
     }
 }
