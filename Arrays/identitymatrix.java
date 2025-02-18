@@ -1,3 +1,5 @@
+// This will check that inserted matrix is identity or not
+
 package Array;
 
 import java.util.Scanner;
