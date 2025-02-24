@@ -4,7 +4,7 @@ public class LinearSearch{
     for(int i = 0;i<arr.length-1;i++){
       if(arr[i]==key){
         System.out.println("Key found! at arr["+i+"]");
-    
+      }
       else{
         System.out.println("Key not found!");
       }
