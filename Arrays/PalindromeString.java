@@ -1,6 +1,6 @@
 /*
 Palindrome : A string , number or sequence that reads the same from forward and backward.
-Ex: "Madam","racecar",141 etc  
+Ex: "Madam","racecar",141 etc.
 */
 import java.util.scanner;
 public class PalindromeString{
