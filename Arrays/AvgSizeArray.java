@@ -25,6 +25,7 @@ public class AvgSizeArray {
                 value++;
         }
         System.out.println("Numbers which are greater then average are: "+count);
+        
         System.out.print("Numbers which are smaller then average are: "+value);
     }
 }
