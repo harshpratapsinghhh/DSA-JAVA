@@ -4,7 +4,7 @@ package Array;
 
 import java.util.Scanner;
 
-public class Prob_1 {
+public class AvgSizeArray {
     public static void main(String[] args) {
         int sum=0,average,count=0,n,value=0;
         Scanner z = new Scanner(System.in);
