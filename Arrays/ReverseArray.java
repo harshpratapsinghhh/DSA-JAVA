@@ -1,4 +1,4 @@
- This method will help to reverse arrays.
+// This method will help to reverse arrays.
 public class ReverseArray{
   public static void reverse(int arr[]){
     int start = 0,end = arr.length-1;
