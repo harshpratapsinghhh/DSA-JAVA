@@ -1,3 +1,5 @@
+// This code will singly Linked list in Basic way
+
 class Node {
     int data; 
     Node next;
