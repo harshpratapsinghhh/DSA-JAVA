@@ -1,3 +1,4 @@
+// Basic operations to use singly linked list
 class Node {
     int data;
     Node next;
