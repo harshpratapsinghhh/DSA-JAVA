@@ -9,7 +9,7 @@ class Node {
     }
 }
 
-class SinglyLinkedList {
+class BasicStructure {
     Node head;
 
     public void add(int data) {
