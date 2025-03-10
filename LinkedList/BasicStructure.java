@@ -1,4 +1,6 @@
 // Basic operations to use singly linked list
+package LinkedList;
+
 class Node {
     int data;
     Node next;
