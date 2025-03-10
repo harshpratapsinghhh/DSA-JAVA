@@ -1,4 +1,5 @@
 // This code will singly Linked list in Basic way
+package LinkedList;
 
 class Node {
     int data; 
