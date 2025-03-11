@@ -1,4 +1,6 @@
 // bubble sorting with Time Complexity T(n) = O(n^2)
+package Sorting;
+
 public class BubbleSort{
 public static void bubble(int arr[]){
         for(int i = 0;i<arr.length-1;i++){
