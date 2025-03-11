@@ -1,4 +1,5 @@
 // Insertion sort have Time Complexity T(n) = O(n^2).
+package Sorting;
 
 import java.util.Scanner;
 
