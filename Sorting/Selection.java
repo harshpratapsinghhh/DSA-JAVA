@@ -1,4 +1,6 @@
-// Time Complexity Best Case: O(n^2) and Worst Case: O(n^2)
+// Time Complexity Best Case: O(n^2) and Worst Case: O(n^2).
+package Sorting;
+
 public class Selection{
   public static void selection(int arr[]){
       for(int i = 0;i<arr.length-1;i++){
