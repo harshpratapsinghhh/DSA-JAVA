@@ -1,4 +1,6 @@
-// Find Missing Number in Array
+// Find Missing Number in Array.
+package Arrays;
+
 public class MissingNumArray{
 public static int MissingNum(int arr[]){
 int n = arr.length + 1;
