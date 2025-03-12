@@ -1,4 +1,6 @@
 // This method will help to reverse arrays.
+package Arrays;
+
 public class ReverseArray{
   public static void reverse(int arr[]){
     int start = 0,end = arr.length-1;
