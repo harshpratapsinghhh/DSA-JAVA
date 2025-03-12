@@ -2,7 +2,10 @@
 Palindrome : A string , number or sequence that reads the same from forward and backward.
 Ex: "Madam","racecar",141 etc.
 */
+package Arrays;
+
 import java.util.scanner;
+
 public class PalindromeString{
       public boolean palindrome(String word){
         char[] arr = word.toCharArray();
