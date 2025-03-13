@@ -1,4 +1,4 @@
-// bubble sorting with Time Complexity T(n) = O(n^2)
+// bubble sorting with Time Complexity T(n) = O(n^2).
 package Sorting;
 
 public class BubbleSort{
