@@ -1,4 +1,4 @@
-// Merge Sort -- Divide Conquer Then merge
+// Merge Sort -- Divide Conquer Then merge.
 package Sorting;
 
 public class MergeSort{
