@@ -1,4 +1,4 @@
-// Here we have used bubblesort to arrange num in descending order 
+// Here we have used bubblesort to arrange num in descending order.
 package Sorting;
 
 import java.util.Scanner;
