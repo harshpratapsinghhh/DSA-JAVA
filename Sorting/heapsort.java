@@ -2,5 +2,7 @@
 package Sorting;
 
 public class heapsort{
-  
+  public static void main(String[] args){
+    
+  }
 }
