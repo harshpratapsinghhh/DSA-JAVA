@@ -1,4 +1,4 @@
-// Basic operations to use singly linked list
+// Basic operations to use singly linked list.
 package LinkedList;
 
 class Node {
