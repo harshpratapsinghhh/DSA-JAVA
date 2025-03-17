@@ -5,4 +5,7 @@ public class heapsort{
   public static void main(String[] args){
     
   }
+  public void sort(int arr[]){
+    
+  }
 }
