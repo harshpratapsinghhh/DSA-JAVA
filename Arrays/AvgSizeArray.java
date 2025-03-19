@@ -1,4 +1,4 @@
-// This code will give element in array which are greater & smaller than average of all elements in
+// This code will give element in array which are greater & smaller than average of all elements in arrays.
 package Arrays;
 
 import java.util.Scanner;
