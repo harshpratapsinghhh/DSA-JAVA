@@ -1,4 +1,4 @@
-// Time Complexity Best Case: O(n^2) and Worst Case: O(n^2).
+// Time Complexity Best Case: O(n^2) and Worst Case O(n^2).
 package Sorting;
 
 public class Selection{
