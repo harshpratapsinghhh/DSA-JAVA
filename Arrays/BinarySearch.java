@@ -1,4 +1,4 @@
-//  This is binary search we break sorted array into two part and search for the target key.
+//  This is Binary search we break sorted array into two part and search for the target key.
 package Array;
 
 import java.util.Scanner;
