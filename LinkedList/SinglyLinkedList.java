@@ -1,4 +1,4 @@
-
+// Basic Sturcture
 package LinkedList;
 
 class Node {
