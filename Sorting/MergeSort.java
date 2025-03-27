@@ -3,7 +3,7 @@ package Sorting;
 
 public class MergeSort{
   public static void main(String[] args){
-    int arr[]={};
+    int arr[]={98,78,67,55,100,7};
     sort(arr,0,arr.length-1);
   }
   public static void merge(int arr[],int left,int mid,int right){
