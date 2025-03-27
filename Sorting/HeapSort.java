@@ -3,7 +3,7 @@ package Sorting;
 
 public class HeapSort {
     public static void heapify(int arr[], int n, int i) {
-        int largest = i; // Initialize largest as root
+        int largest = i; 
         int left = 2 * i + 1; // left = 2*i + 1
         int right = 2 * i + 2; // right = 2*i + 2
 
