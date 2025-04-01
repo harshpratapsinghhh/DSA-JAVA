@@ -1,4 +1,4 @@
-// This code will told us about how cirular Linked List works in java.
+// This code will told us about how cirular Linked List works in JAVA.
 
 class Node {
     int data;
