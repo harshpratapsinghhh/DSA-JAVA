@@ -1,4 +1,4 @@
-// This will check that inserted matrix is identity or not.
+// This will check that inserted matrix is identity matrix or not.
 package Array;
 
 import java.util.Scanner;
