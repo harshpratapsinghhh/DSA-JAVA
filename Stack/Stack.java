@@ -9,6 +9,13 @@ public class Stack{
     }
   }
   public Stack(){
-    
+    top = null;
+    length = 0;
+  }
+  public int length(){
+    return length;
+  }
+  public boolean isEmpty(){
+    return length==0;
   }
 }
