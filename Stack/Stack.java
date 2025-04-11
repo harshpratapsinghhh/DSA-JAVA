@@ -1,3 +1,4 @@
+// Stack follows last in first out.
 public class Stack{
   private LiztNode top;
   private int length;
