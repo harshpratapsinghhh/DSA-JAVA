@@ -1,3 +1,5 @@
-Stack follows Last In First Out (LIFO) property.
+Stack is one way array to store and take out data.
 
+It follows Last In First Out (LIFO) property.
 
+There is a pointer on top generally refered as top initialized as -1.
