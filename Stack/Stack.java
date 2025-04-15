@@ -1,4 +1,6 @@
 // Stack follows last in first out.
+package Stack;
+
 public class Stack{
   private LiztNode top;
   private int length;
